@@ -1,3 +1,6 @@
+// > g++ event.cc -Wall -Wextra
+// > a
+
 #include <stdio.h>
 #include <windows.h>
 

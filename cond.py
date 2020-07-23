@@ -1,3 +1,4 @@
+# $ python cond.py
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 

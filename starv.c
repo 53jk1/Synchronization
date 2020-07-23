@@ -1,3 +1,6 @@
+// > gcc -Wall -Wextra starv.c -O3 -o starv
+// > starv
+
 #include <stdio.h>
 #include <stdint.h>
 #include <stdlib.h>
